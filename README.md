@@ -46,3 +46,5 @@ Extração: Extração hipotética via APIs (Python/Airbyte) do Facebook Graph e
 Transformação: Modelagem de dados para padronizar métricas de diferentes fontes em um esquema comum.
 
 Visualização: Entrega de um front-end leve e rápido que não depende de licenças caras de BI, podendo ser embutido em portais internos.
+
+# Desenvolvido por Romaine Data Analyst & Performance Specialist.
