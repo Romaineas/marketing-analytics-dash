@@ -4,7 +4,7 @@
 
 Este dashboard de Marketing Analytics foi desenvolvido para consolidar dados de múltiplas fontes de tráfego pago (Meta Ads, Google Ads, TikTok Ads) em uma única visão estratégica. O diferencial deste projeto é a interatividade, permitindo que o gestor filtre os dados por período e por canal específico para entender o comportamento granular de cada campanha.
 
-Link do Projeto Online: [SEU-LINK-DA-VERCEL-AQUI]
+Link do Projeto Online: https://marketing-analytics-dash.vercel.app/
 
 #  O Problema de Negócio
 No marketing moderno, os dados estão fragmentados em diversas plataformas. O desafio do Analista de Dados é criar uma "Fonte Única de Verdade" (Single Source of Truth) para responder a perguntas críticas:
